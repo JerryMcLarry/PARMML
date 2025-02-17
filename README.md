@@ -4,11 +4,10 @@ whapwhapwhap
 
 mod list bruv (updated 2/16/2025):
 Mod loader is NeoForge.
-- Appleskin: 3.0.5
-  Food/hunger HUD improvements. (Predominantly client-side.)
-- Architectury API: 13.0.8
-  API library.
-- Bad Packets: 0.8.1
+| Mod Name | Version Number | Use | Download Link/Mod Page |
+| Appleskin | 3.0.5 | Food/hunger HUD improvements. (Predominantly client-side.) | [Modrinth Page](https://modrinth.com/mod/appleskin) |
+| Architectury | 13.0.8 | API library. | |
+| Bad Packets | 0.8.1 |
   API library.
 - BetterBeacons: 2.1.0
 - Biomes O' Plenty: 2.1.0
