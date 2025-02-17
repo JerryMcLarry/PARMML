@@ -1,4 +1,6 @@
 # PARMML
+*Palworld Alternative Reality Minecraft Mod List*
+
 whapwhapwhap
 
 
@@ -8,9 +10,9 @@ Mod loader is NeoForge.
 |------|------|------|------|
 | Appleskin | 3.0.5 | Food/hunger HUD improvements. (Predominantly client-side.) | [Modrinth Page](https://modrinth.com/mod/appleskin) |
 | Architectury | 13.0.8 | API library. |  |
-| Bad Packets | 0.8.1 | a |  |
-- BetterBeacons: 2.1.0
-- Biomes O' Plenty: 2.1.0
+| Bad Packets | 0.8.1 | Intermediary library for mods that utilize different modding platforms. | [Modrinth Page](https://modrinth.com/mod/badpackets) |
+| BetterBeacons | 2.1.0 | Makes beacons better.
+| Biomes O' Plenty | 2.1.0 | World-gen mod. *Relies on GlitchCore and TerraBlender.* | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
 - Caelus: 7.0.1
 - CarryOn: 2.2.2.11
 - Cerbon's API: 1.2.0
