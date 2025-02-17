@@ -7,8 +7,8 @@ Mod loader is NeoForge.
 | Mod Name | Version Number | Use | Download Link/Mod Page |
 |------|------|------|------|
 | Appleskin | 3.0.5 | Food/hunger HUD improvements. (Predominantly client-side.) | [Modrinth Page](https://modrinth.com/mod/appleskin) |
-| Architectury | 13.0.8 | API library. |a |
-| Bad Packets | 0.8.1 | a |a |
+| Architectury | 13.0.8 | API library. |  |
+| Bad Packets | 0.8.1 | a |  |
 - BetterBeacons: 2.1.0
 - Biomes O' Plenty: 2.1.0
 - Caelus: 7.0.1
