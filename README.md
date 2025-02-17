@@ -3,24 +3,23 @@
 
 whapwhapwhap
 
-
-mod list bruv (updated 2/16/2025):
-Mod loader is NeoForge.
+[Full download is here.](https://files.catbox.moe/htwjaq.zip)
+Mod loader is NeoForge. (updated 2/16/2025):
 | Mod Name | Version Number | Use | Download Link/Mod Page |
 |------|------|------|------|
 | Appleskin | 3.0.5 | Food/hunger HUD improvements. (Predominantly client-side.) | [Modrinth Page](https://modrinth.com/mod/appleskin) |
 | Architectury | 13.0.8 | API library. |  |
 | Bad Packets | 0.8.1 | Intermediary library for mods that utilize different modding platforms. | [Modrinth Page](https://modrinth.com/mod/badpackets) |
-| BetterBeacons | 2.1.0 | Makes beacons better.
+| BetterBeacons | 2.1.0 | Makes beacons better. *Relies on Cerbon's API.* | [Modrinth Page](https://modrinth.com/mod/cerbons-better-beacons)
 | Biomes O' Plenty | 2.1.0 | World-gen mod. *Relies on GlitchCore and TerraBlender.* | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
-- Caelus: 7.0.1
-- CarryOn: 2.2.2.11
-- Cerbon's API: 1.2.0
+| Caelus | 7.0.1 | API library needed for the *ElytraSlot* mod. | [Modrinth Page](https://modrinth.com/mod/caelus) |
+| CarryOn | 2.2.2.11 | Allows for players to move around "tile entities" (chests, furnaces, droppers and the like) using empty hands. Can also carry around small mobs and stack them ontop of each other. | [Modrinth Page](https://modrinth.com/mod/carry-on) |
+| Cerbon's API | 1.2.0 | API library. **Used for BetterBeacons.** | [Modrinth Page](https://modrinth.com/mod/cerbons-api) |
 - Cupboard: 2.9
 - Curios: 9.2.2
 - Dummmmmy (MmmMmmMmmMmm): 2.0.6
 - ElytraSlot: 9.0.2
-- Framework(?): 0.9.4
+| MrCrayfish's Framework API | 0.9.4 | API library for MrCrayfish's mods. **Used for Refurbished Furniture.** | [Download Page](https://mrcrayfish.com/mods/framework) |
 - GeckoLib: 4.7.3
 - GlitchCore: 2.1.0.0
 - GPUMemoryLeakFixes: 1.8
