@@ -21,10 +21,10 @@ Mod loader is NeoForge. (updated 2/16/2025):
 | ElytraSlot | 9.0.2 | Mod that grants a dedicated Elytra slot for the player. **Relies on Caelus and Curios.** | [Modrinth Page](https://modrinth.com/mod/elytra-slot) |
 | MrCrayfish's Framework API | 0.9.4 | API library for MrCrayfish's mods. **Used for Refurbished Furniture.** | [Download Page](https://mrcrayfish.com/mods/framework) |
 | GeckoLib | 4.7.3 | API library for animations. ***Used for Point Blank.*** | [Modrinth Page](https://modrinth.com/mod/geckolib) |
-| GlitchCore | 2.1.0.0 | API library. ***Used for Biomes O' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/glitchcore)
-| GPUMemoryLeakFixes | 1.8 | Mod that fixes certain bugs related to the GPU. *Clientside.* | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
-- Gravestone: 1.0.21
-- Guard Villagers: 2.3.2
+| GlitchCore | 2.1.0.0 | API library. ***Used for Biomes O' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/glitchcore) |
+| GPUMemoryLeakFixes | 1.8 | Mod that fixes certain bugs related to the GPU. *Clientside.* | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) |
+| Gravestone | 1.0.21 | Mod that creates a breakable gravestone containing inventory when you died. | [Modrinth Page](https://modrinth.com/mod/gravestone-mod) |
+| Guard Villagers | 2.3.2 | Mod that creates a new villager type that allows for easier defense of the various villagers. | [Modrinth Page](https://modrinth.com/mod/guard-villagers) |
 - Immersive Aircraft: 1.1.5
 - IronFurnaces: 4.2.6
 - Just Enough Items: 19.21.0.247
