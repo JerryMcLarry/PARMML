@@ -5,8 +5,8 @@ whapwhapwhap
 
 [Full download is here.](https://files.catbox.moe/htwjaq.zip)
 Mod loader is NeoForge. (updated 2/16/2025):
-| Mod Name | Version Number | Use | Download Link/Mod Page |
-|------|------|------|------|
+| Mod Name | Version Number | Use | Download Link/Mod Page | Notes |
+|------|------|------|------|------|
 | Appleskin | 3.0.5 | Food/hunger HUD improvements. *(Predominantly client-side.)* | [Modrinth Page](https://modrinth.com/mod/appleskin) |
 | Architectury | 13.0.8 | API library. | [Modrinth Page](https://modrinth.com/mod/architectury-api)  |
 | Bad Packets | 0.8.1 | Intermediary library for mods that utilize different modding platforms. | [Modrinth Page](https://modrinth.com/mod/badpackets) |
@@ -25,17 +25,17 @@ Mod loader is NeoForge. (updated 2/16/2025):
 | GPUMemoryLeakFixes | 1.8 | Mod that fixes certain bugs related to the GPU. *Clientside.* | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) |
 | Gravestone | 1.0.21 | Mod that creates a breakable gravestone containing inventory when you died. | [Modrinth Page](https://modrinth.com/mod/gravestone-mod) |
 | Guard Villagers | 2.3.2 | Mod that creates a new villager type that allows for easier defense of the various villagers. | [Modrinth Page](https://modrinth.com/mod/guard-villagers) |
-- Immersive Aircraft: 1.1.5
-- IronFurnaces: 4.2.6
-- Just Enough Items: 19.21.0.247
-- Kotlin for Forge: 5.7.0
-- MagnumTorch: 21.1.0
-- Mob Grinding Utils: 1.1.7
-- Moonlight: 2.17.12
-- Mo' Structures: 1.5.0
-- Nature's Compass: 3.0.3
-- Not Enough Animations: 1.9.2
-- OreExcavation: 1.16.16
+| Immersive Aircraft | 1.1.5 | Mod that allows for the creation of various aircraft. | [Modrinth Page](https://modrinth.com/mod/immersive-aircraft/changelog) |
+| IronFurnaces | 4.2.6 | Mod that allows for the upgrading of furnaces to higher tiers. Players can craft various augments to further enhance their furnaces. | [Modrinth Page](https://modrinth.com/mod/iron-furnaces) |
+| Just Enough Items | 19.21.0.247 | Mod that lists all possible items within a server. Also displays crafting recipes that pertain to that particular item. | [Modrinth Page](https://modrinth.com/mod/jei) |
+| Kotlin for Forge | 5.7.0 | API library. ***Used for Cobblemon.*** | [Modrinth page](https://modrinth.com/mod/kotlin-for-forge) |
+| MagnumTorch | 21.1.0 | Mod that adds three new items that can disable mod spawning in a certain radius. *Only prevents natural spawning, not spawners/raids.* **Relies on PuzzlesLib.** | [Modrinth Page](https://modrinth.com/mod/magnum-torch) |
+| Mob Grinding Utils | 1.1.7 | Mod that expands the various methods players can perform to setup mob farms. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) |
+| Moonlight | 2.17.12 | API library. Noted to be used for "custom map markers, villager activities, and dynamic data pack usage" among many other uses. | [Modrinth Page](https://modrinth.com/mod/moonlight) |
+| Mo' Structures | 1.5.0 | Mod that adds more structures to the world generation. **Relies on Architectury.** | [Modrinth Page](https://modrinth.com/mod/mo-structures) |
+| Nature's Compass | 3.0.3 | Mod that adds an item that can guide players to the exact biome they wish to see. | [Modrinth Page](https://modrinth.com/mod/natures-compass) |
+| Not Enough Animations | 1.9.2 | Mod that adds more animations to the player in the world view *(thirdperson camera)* that correlate with first person actions. *Entirely client-sided.* | [Modrinth Page](https://modrinth.com/mod/not-enough-animations) | There's a mod that allows for the player to render the third person body in first person. This mod *will* conflict with Point Blank's viewmodels. |
+| OreExcavation | 1.16.16 | Mod that allows for the player to mine numerous of the *same* block with one mine. *This method will still use up a proportionate amount of hunger, however.* | [Modrinth Page](https://modrinth.com/mod/ore-excavation) |
 - Pam's HarvestCraft 2: Food Core: 1.0.0
 - Pipez: 1.2.17
 - PointBlank: 1.9.6
