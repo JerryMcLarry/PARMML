@@ -1,15 +1,15 @@
 # PARMML
 *Palworld Alternative Reality Minecraft Mod List*
 
-whapwhapwhap
+whapwhapwhap with the wapwapwap
 
 [Full download is here.](https://files.catbox.moe/htwjaq.zip)
-Mod loader is NeoForge. (updated 2/16/2025):
+Mod loader is NeoForge. (updated 2/20/2025):
 | Mod Name | Version Number | Use | Download Link/Mod Page | Notes |
 |------|------|------|------|------|
 | Appleskin | 3.0.5 | Food/hunger HUD improvements. *(Predominantly client-side.)* | [Modrinth Page](https://modrinth.com/mod/appleskin) |
 | Architectury | 13.0.8 | API library. | [Modrinth Page](https://modrinth.com/mod/architectury-api)  |
-| Bad Packets | 0.8.1 | Intermediary library for mods that utilize different modding platforms. | [Modrinth Page](https://modrinth.com/mod/badpackets) |
+| Bad Packets | 0.8.1 | Intermediary library for mods that utilize different modding platforms. ***Used for WTHIT.*** | [Modrinth Page](https://modrinth.com/mod/badpackets) |
 | BetterBeacons | 2.1.0 | Makes beacons better. **Relies on Cerbon's API.** | [Modrinth Page](https://modrinth.com/mod/cerbons-better-beacons)
 | Biomes O' Plenty | 2.1.0 | World-gen mod. **Relies on GlitchCore and TerraBlender.** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
 | Caelus | 7.0.1 | API library. ***Used for ElytraSlot.*** | [Modrinth Page](https://modrinth.com/mod/caelus) |
@@ -28,7 +28,7 @@ Mod loader is NeoForge. (updated 2/16/2025):
 | Immersive Aircraft | 1.1.5 | Mod that allows for the creation of various aircraft. | [Modrinth Page](https://modrinth.com/mod/immersive-aircraft/changelog) |
 | IronFurnaces | 4.2.6 | Mod that allows for the upgrading of furnaces to higher tiers. Players can craft various augments to further enhance their furnaces. | [Modrinth Page](https://modrinth.com/mod/iron-furnaces) |
 | Just Enough Items | 19.21.0.247 | Mod that lists all possible items within a server. Also displays crafting recipes that pertain to that particular item. | [Modrinth Page](https://modrinth.com/mod/jei) |
-| Kotlin for Forge | 5.7.0 | API library. ***Used for Cobblemon.*** | [Modrinth page](https://modrinth.com/mod/kotlin-for-forge) |
+| Kotlin for Forge | 5.7.0 | API library. ***Used for Cobblemon.*** | [Modrinth Page](https://modrinth.com/mod/kotlin-for-forge) |
 | MagnumTorch | 21.1.0 | Mod that adds three new items that can disable mod spawning in a certain radius. *Only prevents natural spawning, not spawners/raids.* **Relies on PuzzlesLib.** | [Modrinth Page](https://modrinth.com/mod/magnum-torch) |
 | Mob Grinding Utils | 1.1.7 | Mod that expands the various methods players can perform to setup mob farms. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) |
 | Moonlight | 2.17.12 | API library. Noted to be used for "custom map markers, villager activities, and dynamic data pack usage" among many other uses. | [Modrinth Page](https://modrinth.com/mod/moonlight) |
@@ -36,23 +36,27 @@ Mod loader is NeoForge. (updated 2/16/2025):
 | Nature's Compass | 3.0.3 | Mod that adds an item that can guide players to the exact biome they wish to see. | [Modrinth Page](https://modrinth.com/mod/natures-compass) |
 | Not Enough Animations | 1.9.2 | Mod that adds more animations to the player in the world view *(thirdperson camera)* that correlate with first person actions. *Entirely client-sided.* | [Modrinth Page](https://modrinth.com/mod/not-enough-animations) | There's a mod that allows for the player to render the third person body in first person. This mod *will* conflict with Point Blank's viewmodels. |
 | OreExcavation | 1.16.16 | Mod that allows for the player to mine numerous of the *same* block with one mine. *This method will still use up a proportionate amount of hunger, however.* | [Modrinth Page](https://modrinth.com/mod/ore-excavation) |
-- Pam's HarvestCraft 2: Food Core: 1.0.0
-- Pipez: 1.2.17
-- PointBlank: 1.9.6
-- PuzzlesLib: 21.1.24
-- Refurbished Furniture: 1.0.8
-- Serene Seasons: 10.1.0.3
-- Sophisticated Backpacks: 3.20.29.1156
-  Sophisticated Core: 1.0.5.813
-- Storage Drawers: 13.8.5
-- TerraBlender: 4.1.0.5
-- Tom's Trading Network: 0.3.2
-- What The Hell Is That (WTHIT): 12.4.5
+| Pam's HarvestCraft 2: Food Core | 1.0.0 | Mod that adds numerous food items alongside various tools to assist in the creation of those various foodstuffs. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core) | Mod is updated on CurseForge, but not Modrinth. |
+| Pipez | 1.2.17 | Mod that allows for the creation of pipe blocks, which can transport various things. | [Modrinth Page](https://modrinth.com/mod/pipez)
+| PointBlank | 1.9.6 | Mod that adds guns to Minecraft. Prides itself on having a focus on "commmunity contributions and a gun mod that fits Minecraft's aesthetic". **Relies on GeckoLib.** | [Modrinth Page](https://modrinth.com/mod/vics-point-blank)
+| PuzzlesLib | 21.1.24 | API library. ***Used for MagnumTorch.*** | [Modrinth Page](https://modrinth.com/mod/puzzles-lib) |
+| Refurbished Furniture | 1.0.8 | Mod that adds various furniture items to the game. **Relies on Framework.** | [Download Page](https://mrcrayfish.com/mods/refurbished_furniture) |
+| Serene Seasons | 10.1.0.3 | Mod that adds seasons into minecraft. Leaves and grass change with the weather, certain crops grow better in certain seasons, alongside certain weather types being more prevalent during select seasons. **Relies on GlitchCore.** | [Modrinth Page](https://modrinth.com/mod/serene-seasons) |
+| Sophisticated Backpacks | 3.20.29.1156 | Mod that adds backpacks into Minecraft. The backpacks can be updated to higher tiers alongside be given new effects through various upgrades. **Relies on Sophisticated Core.** | [Modrinth Page](https://modrinth.com/mod/sophisticated-backpacks) |
+| Sophisticated Core | 1.0.5.813 | API library. ***Used for Sophisticated Backpacks.*** | [Modrinth Page](https://modrinth.com/mod/sophisticated-core)
+| Spice of Life: Carrot Edition | 1.16.5 | Mod that rewards players who diversify their food palette with extra hearts. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+| Storage Drawers | 13.8.5 | Mod that adds drawers into Minecraft. *Only allows for the storage of one item per drawer, but has a high stack limit which can be upgraded.* | [Modrinth Page](https://modrinth.com/mod/storagedrawers) |
+| TerraBlender | 4.1.0.5 | API library that allows for easier implementation of biomes into Minecraft. ***Used for Biomes o' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
+| Tom's Trading Network | 0.3.2 | Mod that simplifies trading between players by adding in vending machines. | [Modrinth Page](https://modrinth.com/mod/toms-trading-network)
+| What The Hell Is That (WTHIT) | 12.4.5 | Mod that adds a HUD element that displays info about whatever they're looking at. **Relies on Bad Packets.** |  [Modrinth Page](https://modrinth.com/mod/wthit) |
 
 
 # Cobblemon-core
-- Base Cobblemon: 1.6.1
-- Spawn Notifs: 1.6
-- Cobbreeding: 1.8.4
-- SimpleTMs: 2.0.1
-- Fight or Flight: 0.7.1
+Updated 2/20/25.
+| Mod Name | Version on Server | Newest Version *(if any)* | Download |
+|------|------|------|------|
+| Base Cobblemon | 1.6.1 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon) |
+| Spawn Notifs | 1.6 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon-spawn-notification) |
+| Cobbreeding | 1.8.4 | 1.8.8.1 | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
+| SimpleTMs | 2.0.1 | 2.0.3 | [Modrinth Page](https://modrinth.com/mod/simpletms-tms-and-trs-for-cobblemon) |
+| Fight or Flight | 0.7.1 | 0.7.4 | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
