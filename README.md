@@ -27,7 +27,7 @@ Mod loader is NeoForge. (updated 2/21/2025):
 | Haven Cobble Generators | 1.0.6 | Mod that adds blocks that creates cobblestone and/or similar stones for free. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/haven-cobble-generators) |
 | Immersive Aircraft | 1.1.5 | Mod that allows for the creation of various aircraft. | [Modrinth Page](https://modrinth.com/mod/immersive-aircraft/changelog) |
 | IronFurnaces | 4.2.6 | Mod that allows for the upgrading of furnaces to higher tiers. Players can craft various augments to further enhance their furnaces. | [Modrinth Page](https://modrinth.com/mod/iron-furnaces) |
-| Jade | 15.9.4 | Mod that displays information about whatever the player is looking at. [Modrinth Page](https://modrinth.com/mod/jade) |
+| Jade | 15.9.4 | Mod that displays information about whatever the player is looking at. | [Modrinth Page](https://modrinth.com/mod/jade) |
 | Just Enough Items | 19.21.0.247 | Mod that lists all possible items within a server. Also displays crafting recipes that pertain to that particular item. | [Modrinth Page](https://modrinth.com/mod/jei) |
 | Kotlin for Forge | 5.7.0 | API library. ***Used for Cobblemon.*** | [Modrinth Page](https://modrinth.com/mod/kotlin-for-forge) |
 | MagnumTorch | 21.1.0 | Mod that adds three new items that can disable mod spawning in a certain radius. *Only prevents natural spawning, not spawners/raids.* **Relies on PuzzlesLib.** | [Modrinth Page](https://modrinth.com/mod/magnum-torch) |
@@ -44,8 +44,8 @@ Mod loader is NeoForge. (updated 2/21/2025):
 | Refurbished Furniture | 1.0.8 | Mod that adds various furniture items to the game. **Relies on Framework.** | [Download Page](https://mrcrayfish.com/mods/refurbished_furniture) |
 | Serene Seasons | 10.1.0.3 | Mod that adds seasons into minecraft. Leaves and grass change with the weather, certain crops grow better in certain seasons, alongside certain weather types being more prevalent during select seasons. **Relies on GlitchCore.** | [Modrinth Page](https://modrinth.com/mod/serene-seasons) |
 | Sophisticated Backpacks | 3.20.29.1156 | Mod that adds backpacks into Minecraft. The backpacks can be updated to higher tiers alongside be given new effects through various upgrades. **Relies on Sophisticated Core.** | [Modrinth Page](https://modrinth.com/mod/sophisticated-backpacks) |
-| Sophisticated Core | 1.0.5.813 | API library. ***Used for Sophisticated Backpacks.*** | [Modrinth Page](https://modrinth.com/mod/sophisticated-core)
-| Spice of Life: Carrot Edition | 1.16.5 | Mod that rewards players who diversify their food palette with extra hearts. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+| Sophisticated Core | 1.0.5.813 | API library. ***Used for Sophisticated Backpacks.*** | [Modrinth Page](https://modrinth.com/mod/sophisticated-core) |
+| Spice of Life: Carrot Edition | 1.16.5 | Mod that rewards players who diversify their food palette with extra hearts. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) |
 | Storage Drawers | 13.8.5 | Mod that adds drawers into Minecraft. *Only allows for the storage of one item per drawer, but has a high stack limit which can be upgraded.* | [Modrinth Page](https://modrinth.com/mod/storagedrawers) |
 | TerraBlender | 4.1.0.5 | API library that allows for easier implementation of biomes into Minecraft. ***Used for Biomes o' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
 | Tom's Trading Network | 0.3.2 | Mod that simplifies trading between players by adding in vending machines. | [Modrinth Page](https://modrinth.com/mod/toms-trading-network) |
@@ -55,7 +55,7 @@ Mod loader is NeoForge. (updated 2/21/2025):
 |-----|-----|-----|-----|
 | Xaero's Minimap | 25.1.0+ | Gives you a minimap of the surroundings. Outlines drops and mobs that nearby. | [Modrinth Page](https://modrinth.com/mod/xaeros-minimap) |
 | Iris | **1.8.1** | Enables the loading of shaders. | [Modrinth Page](https://modrinth.com/mod/iris)
-| Skin Layers 3D | 1.7.4 | Renders the outer layer of a skin in 3D. [Modrinth Page](https://modrinth.com/mod/3dskinlayers) |
+| Skin Layers 3D | 1.7.4 | Renders the outer layer of a skin in 3D. | [Modrinth Page](https://modrinth.com/mod/3dskinlayers) |
 
 
 # Cobblemon-core
@@ -64,6 +64,6 @@ Updated 2/20/25.
 |------|------|------|------|
 | Base Cobblemon | 1.6.1 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon) |
 | Spawn Notifs | 1.6 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon-spawn-notification) |
-| Cobbreeding | 1.8.4 | 1.8.8.1 | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
-| SimpleTMs | 2.0.1 | 2.0.3 | [Modrinth Page](https://modrinth.com/mod/simpletms-tms-and-trs-for-cobblemon) |
-| Fight or Flight | 0.7.1 | 0.7.4 | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
+| Cobbreeding | 1.8.8.1 | - | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
+| SimpleTMs | 2.0.3 | - | [Modrinth Page](https://modrinth.com/mod/simpletms-tms-and-trs-for-cobblemon) |
+| Fight or Flight | 0.7.4 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
