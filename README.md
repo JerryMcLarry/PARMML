@@ -4,12 +4,11 @@
 whapwhapwhap with the wapwapwap
 
 [Full download is here.](https://files.catbox.moe/htwjaq.zip)
-Mod loader is NeoForge. (updated 2/20/2025):
+Mod loader is NeoForge. (updated 2/21/2025):
 | Mod Name | Version Number | Use | Download Link/Mod Page | Notes |
 |------|------|------|------|------|
 | Appleskin | 3.0.5 | Food/hunger HUD improvements. *(Predominantly client-side.)* | [Modrinth Page](https://modrinth.com/mod/appleskin) |
 | Architectury | 13.0.8 | API library. | [Modrinth Page](https://modrinth.com/mod/architectury-api)  |
-| Bad Packets | 0.8.1 | Intermediary library for mods that utilize different modding platforms. ***Used for WTHIT.*** | [Modrinth Page](https://modrinth.com/mod/badpackets) |
 | BetterBeacons | 2.1.0 | Makes beacons better. **Relies on Cerbon's API.** | [Modrinth Page](https://modrinth.com/mod/cerbons-better-beacons)
 | Biomes O' Plenty | 2.1.0 | World-gen mod. **Relies on GlitchCore and TerraBlender.** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
 | Caelus | 7.0.1 | API library. ***Used for ElytraSlot.*** | [Modrinth Page](https://modrinth.com/mod/caelus) |
@@ -25,8 +24,10 @@ Mod loader is NeoForge. (updated 2/20/2025):
 | GPUMemoryLeakFixes | 1.8 | Mod that fixes certain bugs related to the GPU. *Clientside.* | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) |
 | Gravestone | 1.0.21 | Mod that creates a breakable gravestone containing inventory when you died. | [Modrinth Page](https://modrinth.com/mod/gravestone-mod) |
 | Guard Villagers | 2.3.2 | Mod that creates a new villager type that allows for easier defense of the various villagers. | [Modrinth Page](https://modrinth.com/mod/guard-villagers) |
+| Haven Cobble Generators | 1.0.6 | Mod that adds blocks that creates cobblestone and/or similar stones for free. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/haven-cobble-generators) |
 | Immersive Aircraft | 1.1.5 | Mod that allows for the creation of various aircraft. | [Modrinth Page](https://modrinth.com/mod/immersive-aircraft/changelog) |
 | IronFurnaces | 4.2.6 | Mod that allows for the upgrading of furnaces to higher tiers. Players can craft various augments to further enhance their furnaces. | [Modrinth Page](https://modrinth.com/mod/iron-furnaces) |
+| Jade | 15.9.4 | Mod that displays information about whatever the player is looking at. [Modrinth Page](https://modrinth.com/mod/jade) |
 | Just Enough Items | 19.21.0.247 | Mod that lists all possible items within a server. Also displays crafting recipes that pertain to that particular item. | [Modrinth Page](https://modrinth.com/mod/jei) |
 | Kotlin for Forge | 5.7.0 | API library. ***Used for Cobblemon.*** | [Modrinth Page](https://modrinth.com/mod/kotlin-for-forge) |
 | MagnumTorch | 21.1.0 | Mod that adds three new items that can disable mod spawning in a certain radius. *Only prevents natural spawning, not spawners/raids.* **Relies on PuzzlesLib.** | [Modrinth Page](https://modrinth.com/mod/magnum-torch) |
@@ -48,7 +49,6 @@ Mod loader is NeoForge. (updated 2/20/2025):
 | Storage Drawers | 13.8.5 | Mod that adds drawers into Minecraft. *Only allows for the storage of one item per drawer, but has a high stack limit which can be upgraded.* | [Modrinth Page](https://modrinth.com/mod/storagedrawers) |
 | TerraBlender | 4.1.0.5 | API library that allows for easier implementation of biomes into Minecraft. ***Used for Biomes o' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
 | Tom's Trading Network | 0.3.2 | Mod that simplifies trading between players by adding in vending machines. | [Modrinth Page](https://modrinth.com/mod/toms-trading-network) |
-| What The Hell Is That (WTHIT) | 12.4.5 | Mod that adds a HUD element that displays info about whatever they're looking at. **Relies on Bad Packets.** |  [Modrinth Page](https://modrinth.com/mod/wthit) |
 
 # Nice Client-side Mods
 | Mod Name | Working Version | Use | Download |
