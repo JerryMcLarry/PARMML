@@ -47,8 +47,15 @@ Mod loader is NeoForge. (updated 2/20/2025):
 | Spice of Life: Carrot Edition | 1.16.5 | Mod that rewards players who diversify their food palette with extra hearts. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 | Storage Drawers | 13.8.5 | Mod that adds drawers into Minecraft. *Only allows for the storage of one item per drawer, but has a high stack limit which can be upgraded.* | [Modrinth Page](https://modrinth.com/mod/storagedrawers) |
 | TerraBlender | 4.1.0.5 | API library that allows for easier implementation of biomes into Minecraft. ***Used for Biomes o' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
-| Tom's Trading Network | 0.3.2 | Mod that simplifies trading between players by adding in vending machines. | [Modrinth Page](https://modrinth.com/mod/toms-trading-network)
+| Tom's Trading Network | 0.3.2 | Mod that simplifies trading between players by adding in vending machines. | [Modrinth Page](https://modrinth.com/mod/toms-trading-network) |
 | What The Hell Is That (WTHIT) | 12.4.5 | Mod that adds a HUD element that displays info about whatever they're looking at. **Relies on Bad Packets.** |  [Modrinth Page](https://modrinth.com/mod/wthit) |
+
+# Nice Client-side Mods
+| Mod Name | Working Version | Use | Download |
+|-----|-----|-----|
+| Xaero's Minimap | 25.1.0+ | Gives you a minimap of the surroundings. Outlines drops and mobs that nearby. | [Modrinth Page](https://modrinth.com/mod/xaeros-minimap) |
+| Iris | **1.8.1** | Enables the loading of shaders. | [Modrinth Page](https://modrinth.com/mod/iris)
+| Skin Layers 3D | 1.7.4 | Renders the outer layer of a skin in 3D. [Modrinth Page](https://modrinth.com/mod/3dskinlayers) |
 
 
 # Cobblemon-core
