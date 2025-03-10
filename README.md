@@ -1,9 +1,13 @@
 # PARMML
 *Palworld Alternative Reality Minecraft Mod List*
 
-whapwhapwhap with the wapwapwap
+whip it back, whip it up, whip it down
 
-[Full download is here.](https://files.catbox.moe/htwjaq.zip)
+Full download(s):
+[Main](https://drive.google.com/file/d/1VKJNgn_-6KFKEovjJZVs5Jv2D_G1mJn4/view?usp=sharing)
+[Back-up](https://files.catbox.moe/vfhish.zip)
+*You should only need to refer to the first download link. Fat fucking chance of that goddamn link being broken.*
+
 Mod loader is NeoForge. (updated 2/21/2025):
 | Mod Name | Version Number | Use | Download Link/Mod Page | Notes |
 |------|------|------|------|------|
@@ -54,7 +58,7 @@ Mod loader is NeoForge. (updated 2/21/2025):
 | Mod Name | Working Version | Use | Download |
 |-----|-----|-----|-----|
 | Xaero's Minimap | 25.1.0+ | Gives you a minimap of the surroundings. Outlines drops and mobs that nearby. | [Modrinth Page](https://modrinth.com/mod/xaeros-minimap) |
-| Iris | **1.8.1** | Enables the loading of shaders. | [Modrinth Page](https://modrinth.com/mod/iris)
+| Iris | 1.8.8 | Enables the loading of shaders. | [Modrinth Page](https://modrinth.com/mod/iris)
 | Skin Layers 3D | 1.7.4 | Renders the outer layer of a skin in 3D. | [Modrinth Page](https://modrinth.com/mod/3dskinlayers) |
 
 
