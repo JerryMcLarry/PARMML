@@ -68,6 +68,6 @@ Updated 2/20/25.
 |------|------|------|------|
 | Base Cobblemon | 1.6.1 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon) |
 | Spawn Notifs | 1.6 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon-spawn-notification) |
-| Cobbreeding | 1.8.8.1 | - | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
+| Cobbreeding | 1.8.8.1 | 1.8.10 | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
 | SimpleTMs | 2.0.3 | - | [Modrinth Page](https://modrinth.com/mod/simpletms-tms-and-trs-for-cobblemon) |
-| Fight or Flight | 0.7.4 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
+| Fight or Flight | 0.7.4 | 0.7.6 | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
