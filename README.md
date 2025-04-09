@@ -4,7 +4,7 @@
 Boss, get down! **That's an enemy gunship.**
 
 Full download(s):
-[Main](https://drive.google.com/file/d/1yIO6rQIcuQKkfEzU0Z3Gcsxw1-HZ2F4A/view?usp=sharing)
+later
 *You should only need to refer to the first download link. Fat fucking chance of that goddamn link being broken.*
 
 Mod loader is NeoForge. (updated 04/02/25):
@@ -70,3 +70,4 @@ Updated 2/20/25.
 | Cobbreeding | 1.8.8.1 | 1.8.10 | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
 | SimpleTMs | 2.0.3 | - | [Modrinth Page](https://modrinth.com/mod/simpletms-tms-and-trs-for-cobblemon) |
 | Fight or Flight | 0.7.6 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
+| Pokenav | 2.1.0 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon-pokenav) |
