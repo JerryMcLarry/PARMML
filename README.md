@@ -1,15 +1,15 @@
 # PARMML
 *Palworld Alternative Reality Minecraft Mod List*
 
-MEHRIO
+LUMBARGO
 
 Full download(s):
-later
-*You should only need to refer to the first download link. Fat fucking chance of that goddamn link being broken.*
+never
 
 Mod loader is NeoForge. (updated 04/02/25):
 | Mod Name | Installed Version Number | Newer Version (An ! will be added if it seems important) | Use | Download Link/Mod Page | Notes |
 |------|------|------|------|------|------|
+| Anvil Never Too Expensive | 1.2.1 | - | Removes the EXP cap related to anvil repairs or enchantments. | [Modrinth Page](https://modrinth.com/mod/ante) |
 | Architectury | 13.0.8 | - | API library. | [Modrinth Page](https://modrinth.com/mod/architectury-api)  |
 | BetterBeacons | 2.1.0 | 2.1.1 | Makes beacons better. **Relies on Cerbon's API.** | [Modrinth Page](https://modrinth.com/mod/cerbons-better-beacons)
 | Biomes O' Plenty | 2.1.0 | 21.1.0.12 | World-gen mod. **Relies on GlitchCore and TerraBlender.** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
@@ -62,12 +62,13 @@ Mod loader is NeoForge. (updated 04/02/25):
 
 
 # Cobblemon-core
-Updated 2/20/25.
+Updated 12/13/2025.
 | Mod Name | Version on Server | Newest Version *(if any)* | Download |
 |------|------|------|------|
-| Base Cobblemon | 1.6.1 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon) |
-| Spawn Notifs | 1.6 | 1.6-1.3.6 | [Modrinth Page](https://modrinth.com/mod/cobblemon-spawn-notification) |
-| Cobbreeding | 1.8.8.1 | 1.9.0 | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
-| SimpleTMs | 2.0.3 | 2.1.2 | [Modrinth Page](https://modrinth.com/mod/simpletms-tms-and-trs-for-cobblemon) |
-| Fight or Flight | 0.7.6 | 0.8.1 | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
-| Pokenav | 2.1.0 | 2.2.2 | [Modrinth Page](https://modrinth.com/mod/cobblemon-pokenav) |
+| Base Cobblemon | 1.6.1 | 1.7.1 | [Modrinth Page](https://modrinth.com/mod/cobblemon) |
+| Spawn Notifs | 1.6 | 1.7.1-2.2.1 | [Modrinth Page](https://modrinth.com/mod/cobblemon-spawn-notification) |
+| Cobblemon Tim Core | 1.27 | - | [Modrinth Page](https://modrinth.com/mod/cobblemon-tim-core) |
+| Cobbreeding | 1.8.8.1 | 2.1.1 | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
+| SimpleTMs | 2.0.3 | 2.3.3 | [Modrinth Page](https://modrinth.com/mod/simpletms-tms-and-trs-for-cobblemon) |
+| Fight or Flight | 0.7.6 | 0.10.2 | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
+| Pokenav | 2.1.0 | 2.2.5 | [Modrinth Page](https://modrinth.com/mod/cobblemon-pokenav) |
