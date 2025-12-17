@@ -38,18 +38,18 @@ Mod loader is NeoForge. Version is 21.1.169. Using a version beyond that may cau
 | Mo' Structures | 1.5.0 | 1.6.0 | Mod that adds more structures to the world generation. **Relies on Architectury.** | [Modrinth Page](https://modrinth.com/mod/mo-structures) |
 | Nature's Compass | 3.0.3 | - | Mod that adds an item that can guide players to the exact biome they wish to see. | [Modrinth Page](https://modrinth.com/mod/natures-compass) |
 | OreExcavation | 1.16.16 | - | Mod that allows for the player to mine numerous of the *same* block with one mine. *This method will still use up a proportionate amount of hunger, however.* | [Modrinth Page](https://modrinth.com/mod/ore-excavation) |
-| Pam's HarvestCraft 2: Food Core | 1.0.0 | - | Mod that adds numerous food items alongside various tools to assist in the creation of those various foodstuffs. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core) | Mod is updated on CurseForge, but not Modrinth. |
+| Pam's HarvestCraft 2: Food Core | 1.0.0 | 1.0.4 | Mod that adds numerous food items alongside various tools to assist in the creation of those various foodstuffs. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core) | Mod is updated on CurseForge, but not Modrinth. |
 | Pipez | 1.2.17 | 1.2.19 | Mod that allows for the creation of pipe blocks, which can transport various things. | [Modrinth Page](https://modrinth.com/mod/pipez)
 | PointBlank | 1.9.6 | - | Mod that adds guns to Minecraft. Prides itself on having a focus on "commmunity contributions and a gun mod that fits Minecraft's aesthetic". **Relies on GeckoLib.** | [Modrinth Page](https://modrinth.com/mod/vics-point-blank) | No updates in the past six months have led to the creation of a fan created continuation. |
-| PuzzlesLib | 21.1.24 | 21.1.36 | API library. ***Used for MagnumTorch.*** | [Modrinth Page](https://modrinth.com/mod/puzzles-lib) |
+| PuzzlesLib | 21.1.24 | 21.1.39 | API library. ***Used for MagnumTorch.*** | [Modrinth Page](https://modrinth.com/mod/puzzles-lib) |
 | Refurbished Furniture | 1.0.8 | 1.0.20 | Mod that adds various furniture items to the game. **Relies on Framework.** | [Download Page](https://mrcrayfish.com/mods/refurbished_furniture) |
 | Serene Seasons | 10.1.0.3 | - | Mod that adds seasons into minecraft. Leaves and grass change with the weather, certain crops grow better in certain seasons, alongside certain weather types being more prevalent during select seasons. **Relies on GlitchCore.** | [Modrinth Page](https://modrinth.com/mod/serene-seasons) |
-| Sophisticated Backpacks | 3.20.29.1156 | 3.24.15.1250 (!) | Mod that adds backpacks into Minecraft. The backpacks can be updated to higher tiers alongside be given new effects through various upgrades. **Relies on Sophisticated Core.** | [Modrinth Page](https://modrinth.com/mod/sophisticated-backpacks) |
-| Sophisticated Core | 1.0.5.813 | 1.3.50.1004 (!) | API library. ***Used for Sophisticated Backpacks.*** | [Modrinth Page](https://modrinth.com/mod/sophisticated-core) |
+| Sophisticated Backpacks | 3.20.29.1156 | 3.25.18.1444 (!) | Mod that adds backpacks into Minecraft. The backpacks can be updated to higher tiers alongside be given new effects through various upgrades. **Relies on Sophisticated Core.** | [Modrinth Page](https://modrinth.com/mod/sophisticated-backpacks) |
+| Sophisticated Core | 1.0.5.813 | 1.3.94.1295 (!) | API library. ***Used for Sophisticated Backpacks.*** | [Modrinth Page](https://modrinth.com/mod/sophisticated-core) |
 | Spice of Life: Carrot Edition | 1.16.5 | - | Mod that rewards players who diversify their food palette with extra hearts. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) |
 | Storage Drawers | 13.8.5 | 13.8.6 | Mod that adds drawers into Minecraft. *Only allows for the storage of one item per drawer, but has a high stack limit which can be upgraded.* | [Modrinth Page](https://modrinth.com/mod/storagedrawers) |
 | TerraBlender | 4.1.0.5 | 4.1.0.8 | API library that allows for easier implementation of biomes into Minecraft. ***Used for Biomes o' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/terrablender) |
-| Tom's Trading Network | 0.3.2 | 0.3.6 | Mod that simplifies trading between players by adding in vending machines. | [Modrinth Page](https://modrinth.com/mod/toms-trading-network) |
+| Tom's Trading Network | 0.3.2 | 0.3.3 | Mod that simplifies trading between players by adding in vending machines. | [Modrinth Page](https://modrinth.com/mod/toms-trading-network) |
 
 # Nice Client-side Mods
 | Mod Name | Working Version | Use | Download | Notes |
