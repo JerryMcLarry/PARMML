@@ -6,7 +6,7 @@ LUMBARGO
 Full download(s):
 never
 
-Mod loader is NeoForge. Version is 21.1.169. Using a version beyond that may cause crashes regarding Architectury not loading properly. (updated 12/16/2025):
+Mod loader is NeoForge. Version is 21.1.169. Using a version beyond that may cause crashes regarding Architectury not loading properly. (updated 9/11/2026):
 | Mod Name | Installed Version Number | Newer Version (An ! will be added if it seems important) | Use | Download Link/Mod Page | Notes |
 |------|------|------|------|------|------|
 | Anvil Never Too Expensive | 1.2.1 | - | Removes the EXP cap related to anvil repairs or enchantments. | [Modrinth Page](https://modrinth.com/mod/ante) |
