@@ -1,20 +1,23 @@
 # PARMML
 *Palworld Alternative Reality Minecraft Mod List*
 
-LUMBARGO
+New guns, yet no new funyuns.
 
-Full download(s):
-never
+Full download(s): [Google Drive](https://drive.google.com/file/d/1E5mJdC7ZEO-cVyW2SjjTaKEE6M2aNWRM/view?usp=sharing)
 
-Mod loader is NeoForge. Version is 21.1.169. Using a version beyond that may cause crashes regarding Architectury not loading properly. (updated 9/11/2026):
+Mod loader is NeoForge. Version is 21.1.250. Using a version beyond that may cause crashes regarding Architectury not loading properly. (updated 9/19/2026):
 | Mod Name | Installed Version Number | Newer Version (An ! will be added if it seems important) | Use | Download Link/Mod Page | Notes |
 |------|------|------|------|------|------|
-| Anvil Never Too Expensive | 1.2.1 | - | Removes the EXP cap related to anvil repairs or enchantments. | [Modrinth Page](https://modrinth.com/mod/ante) |
+| Apotheosis | 8.8.0 | - | Mod that changes how some potions work and overhauls the enchantment system. **Relies on A. Attributes, A. Enchanting, A. Spawners and Placebo.** | [Modrinth Page](https://modrinth.com/mod/apotheosis)
+| Apothic Attributes | 2.10.1 | - | API library for Apotheosis, meant to detail the various attributes that you can find in Apotheosis. ***Used for Apotheosis.*** |
+| Apothic Enchanting | 1.6.2 | - | Module for Apotheosis, which overhauls the enchantment system. ***Used for Apotheosis.*** | 
+| Apothic Spawners | 1.4.0 | - | 
 | Architectury | 13.0.8 | 13.0.11 | API library. | [Modrinth Page](https://modrinth.com/mod/architectury-api)  |
+| Balm Library | - | - | API library. ***Used for Waystones.*** | 
 | BetterBeacons | 2.1.0 | 2.1.1 | Makes beacons better. **Relies on Cerbon's API.** | [Modrinth Page](https://modrinth.com/mod/cerbons-better-beacons)
 | Biomes O' Plenty | 2.1.0 | 21.1.0.14 | World-gen mod. **Relies on GlitchCore and TerraBlender.** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
 | Caelus | 7.0.1 | - | API library. ***Used for ElytraSlot.*** | [Modrinth Page](https://modrinth.com/mod/caelus) |
-| CarryOn | 2.2.2.11 | 2.2.6 | Allows for players to move around "tile entities" *(chests, furnaces, droppers and the like)* using empty hands. Can also carry around small mobs and stack them ontop of each other. | [Modrinth Page](https://modrinth.com/mod/carry-on) |
+| CarryOn | 2.2.2.11 | 2.2.6 | Allows for players to move around "tile entities" *(chests, furnaces, droppers and the like)* using empty hands. Can also carry around small mobs and stack them on top of each other. | [Modrinth Page](https://modrinth.com/mod/carry-on) |
 | CarryOn Extend | 1.4-hotfix | 1.5.2 | Extension of CarryOn, allowing for players to *throw* the object they're carrying. | [Modrinth Page](https://modrinth.com/mod/carry-on-extend) |
 | Cerbon's API | 1.2.0 | 1.3.0 | API library. ***Used for BetterBeacons.*** | [Modrinth Page](https://modrinth.com/mod/cerbons-api) |
 | Cupboard | 2.9 | 4.1 | API library. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/cupboard) |
@@ -22,12 +25,10 @@ Mod loader is NeoForge. Version is 21.1.169. Using a version beyond that may cau
 | Dummmmmy (MmmMmmMmmMmm) | 2.0.6 | 2.1.1 | Target dummy mod. Armours can be equipped onto the dummy. | [Modrinth Page](https://modrinth.com/mod/mmmmmmmmmmmm)
 | ElytraSlot | 9.0.2 | - | Mod that grants a dedicated Elytra slot for the player. **Relies on Caelus and Curios.** | [Modrinth Page](https://modrinth.com/mod/elytra-slot) |
 | MrCrayfish's Framework API | 0.9.4 | 0.13.11 | API library for MrCrayfish's mods. **Used for Refurbished Furniture.** | [Download Page](https://mrcrayfish.com/mods/framework) |
-| GeckoLib | 4.7.3 | 4.9.2 | API library for animations. ***Used for Point Blank.*** | [Modrinth Page](https://modrinth.com/mod/geckolib) |
 | GlitchCore | 2.1.0.0 | 2.1.0.2 | API library. ***Used for Biomes O' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/glitchcore) |
 | Gravestone | 1.0.21 | 1.0.40 | Mod that creates a breakable gravestone containing inventory when you died. | [Modrinth Page](https://modrinth.com/mod/gravestone-mod) |
 | Guard Villagers | 2.3.2 | 2.4.12 | Mod that creates a new villager type that allows for easier defense of the various villagers. | [Modrinth Page](https://modrinth.com/mod/guard-villagers) |
 | Haven Cobble Generators | 1.0.6 | 1.1.1(!) | Mod that adds blocks that creates cobblestone and/or similar stones for free. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/haven-cobble-generators) |
-| Immersive Aircraft | 1.1.5 | 1.4.6 | Mod that allows for the creation of various aircraft. | [Modrinth Page](https://modrinth.com/mod/immersive-aircraft/changelog) |
 | IronFurnaces | 4.2.6 | 4.3.2 | Mod that allows for the upgrading of furnaces to higher tiers. Players can craft various augments to further enhance their furnaces. | [Modrinth Page](https://modrinth.com/mod/iron-furnaces) |
 | Jade | 15.9.4 | 15.10.6 | Mod that displays information about whatever the player is looking at. | [Modrinth Page](https://modrinth.com/mod/jade) |
 | Just Enough Items | 19.21.0.247 | 19.54.0.429 | Mod that lists all possible items within a server. Also displays crafting recipes that pertain to that particular item. | [Modrinth Page](https://modrinth.com/mod/jei) |
@@ -39,8 +40,8 @@ Mod loader is NeoForge. Version is 21.1.169. Using a version beyond that may cau
 | Nature's Compass | 3.0.3 | 3.4.0 | Mod that adds an item that can guide players to the exact biome they wish to see. | [Modrinth Page](https://modrinth.com/mod/natures-compass) |
 | OreExcavation | 1.16.16 | 1.16.43 | Mod that allows for the player to mine numerous of the *same* block with one mine. *This method will still use up a proportionate amount of hunger, however.* | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) |
 | Pam's HarvestCraft 2: Food Core | 1.0.0 | 1.0.4 | Mod that adds numerous food items alongside various tools to assist in the creation of those various foodstuffs. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core) | Mod is updated on CurseForge, but not Modrinth. |
-| Pipez | 1.2.17 | 1.2.31 | Mod that allows for the creation of pipe blocks, which can transport various things. | [Modrinth Page](https://modrinth.com/mod/pipez)
-| PointBlank | 1.9.6 | 2.2.0 (!) | Mod that adds guns to Minecraft. Prides itself on having a focus on "commmunity contributions and a gun mod that fits Minecraft's aesthetic". **Relies on GeckoLib.** | [Modrinth Page](https://modrinth.com/mod/vics-point-blank) |
+| Pipez | 1.2.17 | 1.2.31 | Mod that allows for the creation of pipe blocks, which can transport various things. | [Modrinth Page](https://modrinth.com/mod/pipez) |
+| Placebo | 9.9.2 | - | API library. ***Used for Apotheosis.*** | [Modrinth Page](https://modrinth.com/mod/placebo)
 | PuzzlesLib | 21.1.24 | 21.1.60 | API library. ***Used for MagnumTorch.*** | [Modrinth Page](https://modrinth.com/mod/puzzles-lib) |
 | Refurbished Furniture | 1.0.8 | 1.0.22 | Mod that adds various furniture items to the game. **Relies on Framework.** | [Download Page](https://mrcrayfish.com/mods/refurbished_furniture) |
 | Serene Seasons | 10.1.0.3 | 10.1.0.9 | Mod that adds seasons into minecraft. Leaves and grass change with the weather, certain crops grow better in certain seasons, alongside certain weather types being more prevalent during select seasons. **Relies on GlitchCore.** | [Modrinth Page](https://modrinth.com/mod/serene-seasons) |
@@ -48,8 +49,13 @@ Mod loader is NeoForge. Version is 21.1.169. Using a version beyond that may cau
 | Sophisticated Core | 1.0.5.813 | 1.5.1.2341 (!) | API library. ***Used for Sophisticated Backpacks.*** | [Modrinth Page](https://modrinth.com/mod/sophisticated-core) |
 | Spice of Life: Carrot Edition | 1.16.5 | 1.16.6 | Mod that rewards players who diversify their food palette with extra hearts. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) |
 | Storage Drawers | 13.8.5 | 13.11.4 | Mod that adds drawers into Minecraft. *Only allows for the storage of one item per drawer, but has a high stack limit which can be upgraded.* | [Modrinth Page](https://modrinth.com/mod/storagedrawers) |
+| Timeless and Classics Zero (NeoForge) | 1.1.8-hotfix-r6 | - | High quality gun mod for Minecraft, ported to NeoForge. | [Modrinth Page](https://modrinth.com/mod/tacz-1.21.1) |
 | TerraBlender | 4.1.0.5 | 4.1.0.8 | API library that allows for easier implementation of biomes into Minecraft. ***Used for Biomes o' Plenty.*** | [Modrinth Page](https://modrinth.com/mod/terrablender) |
 | Tom's Trading Network | 0.3.2 | 0.3.4 | Mod that simplifies trading between players by adding in vending machines. | [Modrinth Page](https://modrinth.com/mod/toms-trading-network) |
+| Waystones | 21.1.45 | - | Mod that allows for placeable teleportation in the form of waystones. **Relies on Balm.** | [ModrinthPage](https://modrinth.com/mod/waystones)
+
+# TaCZ Gun Packs
+Suffuse Gun Smoke
 
 # Nice Client-side Mods
 | Mod Name | Working Version | Use | Download | Notes |
@@ -62,14 +68,15 @@ Mod loader is NeoForge. Version is 21.1.169. Using a version beyond that may cau
 | Skin Layers 3D | 1.7.4 | Renders the outer layer of a skin in 3D. | [Modrinth Page](https://modrinth.com/mod/3dskinlayers) |
 
 
+
+
 # Cobblemon-core
-Updated 12/13/2025.
+Updated 9/19/2026.
 | Mod Name | Version on Server | Newest Version *(if any)* | Download |
 |------|------|------|------|
 | Base Cobblemon | 1.6.1 | 1.8.0 | [Modrinth Page](https://modrinth.com/mod/cobblemon) |
 | Spawn Notifs | 1.6 | 1.8.0-2.3.0 | [Modrinth Page](https://modrinth.com/mod/cobblemon-spawn-notification) |
 | Cobblemon Tim Core | 1.27 | 1.8.0-1.32.0 | [Modrinth Page](https://modrinth.com/mod/cobblemon-tim-core) |
 | Cobbreeding | 1.8.8.1 | 2.3.0 | [Modrinth Page](https://modrinth.com/mod/cobbreeding) |
-| SimpleTMs | 2.0.3 | 2.3.3 | [Modrinth Page](https://modrinth.com/mod/simpletms-tms-and-trs-for-cobblemon) |
 | Fight or Flight | 0.7.6 | 0.11.0 | [Modrinth Page](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn) |
 | Pokenav | 2.1.0 | 2.4.1 | [Modrinth Page](https://modrinth.com/mod/cobblemon-pokenav) |
